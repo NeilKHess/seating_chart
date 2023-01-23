@@ -1,0 +1,9 @@
+#Ask person to title their seating chart ("Smith Wedding", "4th Period Science")
+#Ask person to create seat grid along with isle spaces
+#Ask person to highlight spaces to be used as seats
+#ask person to input names of guests
+#check to make sure that Guests =< seats
+#Ask person to specify individual rules
+#ask person to specify small groups
+#ask person to specify avoidance rules
+#Randomize chart according to seating rules
